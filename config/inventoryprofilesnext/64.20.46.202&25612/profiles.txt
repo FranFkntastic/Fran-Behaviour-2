@@ -1,0 +1,92 @@
+
+
+
+
+profile Saved activate HOT5
+	HOT1
+		"simplyswords:diamond_rapier" -> "Enchantments" : [{id:"apotheosis:life_mending",lvl:3},{id:"minecraft:sharpness",lvl:9},{id:"apotheosis:knowledge",lvl:3},{id:"minecraft:looting",lvl:7},{id:"minecraft:sweeping",lvl:6},{id:"apotheosis:capturing",lvl:6},{id:"apotheosis:scavenger",lvl:3},{id:"minecraft:mending",lvl:1},{id:"ensorcellation:leech",lvl:7},{id:"reliquary:severing",lvl:8},{id:"ensorcellation:vorpal",lvl:7},{id:"minecraft:unbreaking",lvl:6}]
+	HOT2
+		"minecraft:diamond_pickaxe" -> "Enchantments" : [{id:"minecraft:efficiency",lvl:9},{id:"minecraft:fortune",lvl:8},{id:"minecraft:unbreaking",lvl:7},{id:"minecraft:mending",lvl:1},{id:"apotheosis:life_mending",lvl:3},{id:"apotheosis:earths_boon",lvl:5}]
+	HOT6
+		"relics:infinity_ham"
+	HOT7
+		"minecraft:firework_rocket"
+	HOT8
+		"minecraft:bow" -> "Enchantments" : [{id:"apotheosis:endless_quiver",lvl:1},{id:"minecraft:unbreaking",lvl:8},{id:"apotheosis:life_mending",lvl:3},{id:"minecraft:punch",lvl:3}]
+	HOT9
+		"minecraft:bow" -> "Enchantments" : [{id:"ensorcellation:trueshot",lvl:6},{id:"minecraft:power",lvl:8},{id:"ensorcellation:soulbound",lvl:1},{id:"apotheosis:endless_quiver",lvl:1},{id:"minecraft:unbreaking",lvl:7},{id:"apotheosis:life_mending",lvl:3},{id:"ensorcellation:quick_draw",lvl:4}]
+	HEAD
+		"minecraft:diamond_helmet" -> "Enchantments" : [{id:"minecraft:protection",lvl:3},{id:"ensorcellation:soulbound",lvl:1},{id:"ensorcellation:exp_boost",lvl:7},{id:"minecraft:mending",lvl:1},{id:"ars_nouveau:mana_boost",lvl:5},{id:"minecraft:respiration",lvl:5}]
+	CHEST
+		"minecraft:elytra" -> "Enchantments" : [{id:"apotheosis:life_mending",lvl:1},{id:"minecraft:unbreaking",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	LEGS
+		"minecraft:diamond_leggings" -> "Enchantments" : [{id:"minecraft:unbreaking",lvl:7},{id:"minecraft:mending",lvl:1},{id:"ars_nouveau:mana_regen",lvl:6},{id:"minecraft:fire_protection",lvl:8}]
+	FEET
+		"minecraft:diamond_boots" -> "Enchantments" : [{id:"minecraft:protection",lvl:6},{id:"minecraft:mending",lvl:1},{id:"minecraft:unbreaking",lvl:7},{id:"apotheosis:stable_footing",lvl:1},{id:"minecraft:feather_falling",lvl:8},{id:"ensorcellation:soulbound",lvl:1},{id:"walljump:doublejump",lvl:4},{id:"ars_nouveau:mana_regen",lvl:6},{id:"ars_nouveau:mana_boost",lvl:6},{id:"walljump:speedboost",lvl:6},{id:"minecraft:depth_strider",lvl:6},{id:"apotheosis:life_mending",lvl:3}]
+
+profile Saved activate HOT5
+	HOT1
+		"simplyswords:diamond_rapier" -> "Enchantments" : [{id:"apotheosis:life_mending",lvl:3},{id:"minecraft:sharpness",lvl:9},{id:"apotheosis:knowledge",lvl:3},{id:"minecraft:looting",lvl:7},{id:"minecraft:sweeping",lvl:6},{id:"apotheosis:capturing",lvl:6},{id:"apotheosis:scavenger",lvl:3},{id:"minecraft:mending",lvl:1},{id:"ensorcellation:leech",lvl:7},{id:"reliquary:severing",lvl:8},{id:"ensorcellation:vorpal",lvl:7},{id:"minecraft:unbreaking",lvl:6}]
+	HOT2
+		"minecraft:diamond_pickaxe" -> "Enchantments" : [{id:"minecraft:efficiency",lvl:9},{id:"minecraft:fortune",lvl:8},{id:"minecraft:unbreaking",lvl:7},{id:"minecraft:mending",lvl:1},{id:"apotheosis:life_mending",lvl:3},{id:"apotheosis:earths_boon",lvl:5}]
+	HOT6
+		"relics:infinity_ham"
+	HOT7
+		"minecraft:firework_rocket"
+	HOT8
+		"minecraft:bow" -> "Enchantments" : [{id:"apotheosis:endless_quiver",lvl:1},{id:"minecraft:unbreaking",lvl:8},{id:"apotheosis:life_mending",lvl:3},{id:"minecraft:punch",lvl:3}]
+	HOT9
+		"minecraft:bow" -> "Enchantments" : [{id:"ensorcellation:trueshot",lvl:6},{id:"minecraft:power",lvl:8},{id:"ensorcellation:soulbound",lvl:1},{id:"apotheosis:endless_quiver",lvl:1},{id:"minecraft:unbreaking",lvl:7},{id:"apotheosis:life_mending",lvl:3},{id:"ensorcellation:quick_draw",lvl:4}]
+	HEAD
+		"minecraft:diamond_helmet" -> "Enchantments" : [{id:"minecraft:protection",lvl:3},{id:"ensorcellation:soulbound",lvl:1},{id:"ensorcellation:exp_boost",lvl:7},{id:"minecraft:mending",lvl:1},{id:"ars_nouveau:mana_boost",lvl:5},{id:"minecraft:respiration",lvl:5}]
+	CHEST
+		"minecraft:elytra" -> "Enchantments" : [{id:"apotheosis:life_mending",lvl:1},{id:"minecraft:unbreaking",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	LEGS
+		"minecraft:diamond_leggings" -> "Enchantments" : [{id:"minecraft:unbreaking",lvl:7},{id:"minecraft:mending",lvl:1},{id:"ars_nouveau:mana_regen",lvl:6},{id:"minecraft:fire_protection",lvl:8}]
+	FEET
+		"minecraft:diamond_boots" -> "Enchantments" : [{id:"minecraft:protection",lvl:6},{id:"minecraft:mending",lvl:1},{id:"minecraft:unbreaking",lvl:7},{id:"apotheosis:stable_footing",lvl:1},{id:"minecraft:feather_falling",lvl:8},{id:"ensorcellation:soulbound",lvl:1},{id:"walljump:doublejump",lvl:4},{id:"ars_nouveau:mana_regen",lvl:6},{id:"ars_nouveau:mana_boost",lvl:6},{id:"walljump:speedboost",lvl:6},{id:"minecraft:depth_strider",lvl:6},{id:"apotheosis:life_mending",lvl:3}]
+
+profile Saved activate HOT5
+	HOT1
+		"simplyswords:diamond_rapier" -> "Enchantments" : [{id:"apotheosis:life_mending",lvl:3},{id:"minecraft:sharpness",lvl:9},{id:"apotheosis:knowledge",lvl:3},{id:"minecraft:looting",lvl:7},{id:"minecraft:sweeping",lvl:6},{id:"apotheosis:capturing",lvl:6},{id:"apotheosis:scavenger",lvl:3},{id:"minecraft:mending",lvl:1},{id:"ensorcellation:leech",lvl:7},{id:"reliquary:severing",lvl:8},{id:"ensorcellation:vorpal",lvl:7},{id:"minecraft:unbreaking",lvl:6}]
+	HOT2
+		"minecraft:diamond_pickaxe" -> "Enchantments" : [{id:"minecraft:efficiency",lvl:9},{id:"minecraft:fortune",lvl:8},{id:"minecraft:unbreaking",lvl:7},{id:"minecraft:mending",lvl:1},{id:"apotheosis:life_mending",lvl:3},{id:"apotheosis:earths_boon",lvl:5}]
+	HOT6
+		"relics:infinity_ham"
+	HOT7
+		"minecraft:firework_rocket"
+	HOT8
+		"minecraft:bow" -> "Enchantments" : [{id:"apotheosis:endless_quiver",lvl:1},{id:"minecraft:unbreaking",lvl:8},{id:"apotheosis:life_mending",lvl:3},{id:"minecraft:punch",lvl:3}]
+	HOT9
+		"minecraft:bow" -> "Enchantments" : [{id:"ensorcellation:trueshot",lvl:6},{id:"minecraft:power",lvl:8},{id:"ensorcellation:soulbound",lvl:1},{id:"apotheosis:endless_quiver",lvl:1},{id:"minecraft:unbreaking",lvl:7},{id:"apotheosis:life_mending",lvl:3},{id:"ensorcellation:quick_draw",lvl:4}]
+	HEAD
+		"minecraft:diamond_helmet" -> "Enchantments" : [{id:"minecraft:protection",lvl:3},{id:"ensorcellation:soulbound",lvl:1},{id:"ensorcellation:exp_boost",lvl:7},{id:"minecraft:mending",lvl:1},{id:"ars_nouveau:mana_boost",lvl:5},{id:"minecraft:respiration",lvl:5}]
+	CHEST
+		"minecraft:elytra" -> "Enchantments" : [{id:"apotheosis:life_mending",lvl:1},{id:"minecraft:unbreaking",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	LEGS
+		"minecraft:diamond_leggings" -> "Enchantments" : [{id:"minecraft:unbreaking",lvl:7},{id:"minecraft:mending",lvl:1},{id:"ars_nouveau:mana_regen",lvl:6},{id:"minecraft:fire_protection",lvl:8}]
+	FEET
+		"minecraft:diamond_boots" -> "Enchantments" : [{id:"minecraft:protection",lvl:6},{id:"minecraft:mending",lvl:1},{id:"minecraft:unbreaking",lvl:7},{id:"apotheosis:stable_footing",lvl:1},{id:"minecraft:feather_falling",lvl:8},{id:"ensorcellation:soulbound",lvl:1},{id:"walljump:doublejump",lvl:4},{id:"ars_nouveau:mana_regen",lvl:6},{id:"ars_nouveau:mana_boost",lvl:6},{id:"walljump:speedboost",lvl:6},{id:"minecraft:depth_strider",lvl:6},{id:"apotheosis:life_mending",lvl:3}]
+
+profile Saved activate HOT5
+	HOT1
+		"simplyswords:diamond_rapier" -> "Enchantments" : [{id:"apotheosis:life_mending",lvl:3},{id:"minecraft:sharpness",lvl:9},{id:"apotheosis:knowledge",lvl:3},{id:"minecraft:looting",lvl:7},{id:"minecraft:sweeping",lvl:6},{id:"apotheosis:capturing",lvl:6},{id:"apotheosis:scavenger",lvl:3},{id:"minecraft:mending",lvl:1},{id:"ensorcellation:leech",lvl:7},{id:"reliquary:severing",lvl:8},{id:"ensorcellation:vorpal",lvl:7},{id:"minecraft:unbreaking",lvl:6}]
+	HOT2
+		"minecraft:diamond_pickaxe" -> "Enchantments" : [{id:"minecraft:efficiency",lvl:9},{id:"minecraft:fortune",lvl:8},{id:"minecraft:unbreaking",lvl:7},{id:"minecraft:mending",lvl:1},{id:"apotheosis:life_mending",lvl:3},{id:"apotheosis:earths_boon",lvl:5}]
+	HOT6
+		"relics:infinity_ham"
+	HOT7
+		"minecraft:firework_rocket"
+	HOT8
+		"minecraft:bow" -> "Enchantments" : [{id:"apotheosis:endless_quiver",lvl:1},{id:"minecraft:unbreaking",lvl:8},{id:"apotheosis:life_mending",lvl:3},{id:"minecraft:punch",lvl:3}]
+	HOT9
+		"minecraft:bow" -> "Enchantments" : [{id:"ensorcellation:trueshot",lvl:6},{id:"minecraft:power",lvl:8},{id:"ensorcellation:soulbound",lvl:1},{id:"apotheosis:endless_quiver",lvl:1},{id:"minecraft:unbreaking",lvl:7},{id:"apotheosis:life_mending",lvl:3},{id:"ensorcellation:quick_draw",lvl:4}]
+	HEAD
+		"minecraft:diamond_helmet" -> "Enchantments" : [{id:"minecraft:protection",lvl:3},{id:"ensorcellation:soulbound",lvl:1},{id:"ensorcellation:exp_boost",lvl:7},{id:"minecraft:mending",lvl:1},{id:"ars_nouveau:mana_boost",lvl:5},{id:"minecraft:respiration",lvl:5}]
+	CHEST
+		"minecraft:elytra" -> "Enchantments" : [{id:"apotheosis:life_mending",lvl:1},{id:"minecraft:unbreaking",lvl:5},{id:"ensorcellation:soulbound",lvl:1}]
+	LEGS
+		"minecraft:diamond_leggings" -> "Enchantments" : [{id:"minecraft:unbreaking",lvl:7},{id:"minecraft:mending",lvl:1},{id:"ars_nouveau:mana_regen",lvl:6},{id:"minecraft:fire_protection",lvl:8}]
+	FEET
+		"minecraft:diamond_boots" -> "Enchantments" : [{id:"minecraft:protection",lvl:6},{id:"minecraft:mending",lvl:1},{id:"minecraft:unbreaking",lvl:7},{id:"apotheosis:stable_footing",lvl:1},{id:"minecraft:feather_falling",lvl:8},{id:"ensorcellation:soulbound",lvl:1},{id:"walljump:doublejump",lvl:4},{id:"ars_nouveau:mana_regen",lvl:6},{id:"ars_nouveau:mana_boost",lvl:6},{id:"walljump:speedboost",lvl:6},{id:"minecraft:depth_strider",lvl:6},{id:"apotheosis:life_mending",lvl:3}]
+
