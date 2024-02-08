@@ -1,0 +1,91 @@
+```
+Not Planned:
+Artifacts
+  - No longer maintained, + redundant with Apotheosis' charms.
+Construction Wands
+  - Effortless building provides mostly the same functionality without the need to craft a tool for it.
+Corail tombstone
+adds an extra competing magic system which is kind of anemic and adds a lot of redundancy in a way that isn't particularly unique or special
+Create: Netherless
+  - i believe going to hell is a character building experience and removing the need will stunt emotional maturity and ability to confront adversity (going to hell)
+Curious Lanterns
+  - Requires radiant gear as a dependency and I'm iffy adding anything that touches the lighting engine at this point, especially when dealing with older fabric -> forge ports that aren't frequently maintained.
+Decorative Blocks
+Dragon Additions
+  - Scope creep
+Functional Storage
+	- Not different enough from storage drawers to warrant replacement or addition
+Ice & Fire + Addons
+	- It's just a lot, man. Might change when I get the time to look through it all and configure it to fit.
+Iron Furnaces
+	- all the work is done at the crafting bench. discourages more creative smelting/smoking etc. setups
+Openblocks Elevators
+	- one block elevator solution, similar reasoning as above
+Tinker's Thinking
+	- Feels amateurish
+
+
+Planned to Remove:
+
+Ars Omega
+
+Planned to Add:
+
+Ars Instrumentum
+Create: Big Cannons
+Create: Copies and Cats
+Create: Diesel Generators
+Create: Alloyed
+Create: Slice & Dice
+Create: Design & Decor
+Create: Steam & Rails
+  - i fucking love trains
+Computercraft (whatever the newest fork is idk)
+Corpse
+Corail Woodcutter
+Enigmatic Legacy
+  - this one is a little more centralizing than I would typically like but it does it in a way that doesn't feel like it steps on other mods toes.
+Integrated Dynamics (ONLY BASE)
+MmmMmmMmmMmm
+	-	Target dummy mod
+Pylons
+Rechiseled + Rechiseled Create
+Toggle Enchantments
+
+Planned to Add After Tuning:
+
+Artifacts
+Tinker's Construct
+Tinker's Leveling
+Better Combat with Tinker's Support (compat)
+Chromatic Arsenal
+  - Duality rings will need to be changed to not be overtuned with Spice of Life
+Dragon Survival
+  - cool as fuck but I do NOT know enough about how it works to just drop it in the pack without figuring it out first.
+Farming for Blockheads
+	- Most stuff is fine except for the market block, which ships a little too convenient for too little cost. Will probably add this with market disabled initially
+Merge Enchantments
+	- needs investigation
+Tons of Enchants
+	- love me a good enchantment mod but some of the ones this adds are a little uninspired / too powerful
+
+Considering:
+
+Create: Broken Bad + Usable Product
+  - funny but also like zero documentation and a bit thematically dissonant
+Create: Misc and Things
+  - A lot of really cool and convenient additions but also some items with the potential to cause problems (mending rune, for one).
+Create: Dreams & Desires
+  - I'd say this mod looked cool if I had any fucking clue what it added. Zero documentation except for some vague images. No wiki, no relevant pins or resources in the dev discord. 
+  - okay wow yeah this adds a lot. low priority to implement
+Enchanting Infuser
+  - gut reaction is to deny based on redundancy with apotheosis, but could be a convenient alternative that coexists with some tuning. Need to investigate compatibility
+Forbidden & Arcanus
+	- lot of stuff, looks cool and I've heard good things but I know next to nothing about it. 
+Materialis
+	- need to see what additional functions new materials add in case any are a bit too wild
+Chipped
+  - Looks rad as fuck but also might hurt parity with other servers for builds saved with create schematics + compat
+Security Craft
+	- has cool features but needs config tuning
+```
